@@ -1,6 +1,6 @@
 Model can be found on Sketchfab at https://skfb.ly/o8vur
 
-Credit: 
+Credits: 
 
 @dramarama for making them
 
