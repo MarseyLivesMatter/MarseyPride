@@ -9,3 +9,5 @@ Credits:
 @Xirabolt for Fusion360 files - https://www.thingiverse.com/thing:5194016 ( https://rdrama.net/post/35155/i-wasted-my-weekend-modeling-another )
 
 @Homoshrexual for Marsey_cute model - https://www.thingiverse.com/thing:5195152 ( https://rdrama.net/post/35351/i-fixed-the-low-poly-marsey )
+
+@Xirabolt for Snappy model - [https://rdrama.net/post/84130/10k-dramacoin-for-a-marppy-3d/2286004?context=8#context](https://rdrama.net/post/84130/10k-dramacoin-for-a-marppy-3d/2286004?context=8#context) & [https://thangs.com/designer/Xira/3d-model/Marsetbot.stl-188695](https://thangs.com/designer/Xira/3d-model/Marsetbot.stl-188695)
